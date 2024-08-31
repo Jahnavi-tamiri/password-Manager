@@ -1,0 +1,97 @@
+.mainimg {
+  width: 7vw;
+}
+.maincard {
+  background-image: linear-gradient(to bottom, #9ba9eb, #f8fafc);
+  height: 100vh;
+  width: 100%;
+}
+.topcard {
+  display: flex;
+  justify-content: space-between;
+  background-color: #5763a5;
+  padding: 20px;
+  margin-top: 10px;
+  color: white;
+  border-radius: 20px;
+}
+.bottomcard {
+  background-color: #5763a5;
+  padding: 20px;
+  margin-top: 10px;
+  color: white;
+  border-radius: 20px;
+}
+.pmimg {
+  width: 20vw;
+}
+.icons {
+  width: 20px;
+}
+input {
+  height: 30px;
+  width: 20vw;
+  margin: 10px;
+  padding: 10px;
+}
+.card-container {
+  padding: 40px;
+  padding-top: 20px;
+}
+button {
+  color: white;
+  background-color: #0b69ff;
+  border-width: 0px;
+  width: 10vh;
+  height: 30px;
+  border-radius: 5px;
+}
+.form-container {
+  background-color: #454f84;
+  padding: 20px;
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 15px;
+}
+h1 {
+  font-size: 25px;
+  margin-right: 20px;
+}
+
+.nopassword {
+  width: 20vw;
+}
+.passwords {
+  display: flex;
+  justify-content: space-between;
+}
+.forms {
+  display: flex;
+  flex-direction: column;
+}
+
+.list-head {
+  display: flex;
+}
+.checkboxbtn {
+  display: flex;
+  justify-content: flex-end;
+}
+.checkbox {
+  width: 14px;
+  margin: 0px;
+  padding: 0px;
+  align-self: center;
+  margin-right: 3px;
+}
+.nopass-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+ul {
+  flex-wrap: wrap;
+  display: flex;
+}

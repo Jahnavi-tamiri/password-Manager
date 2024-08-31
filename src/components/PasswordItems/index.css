@@ -1,0 +1,37 @@
+.listPassword {
+  display: flex;
+  border: solid 1px #f8fafc;
+  justify-content: space-between;
+  padding: 20px;
+  border-radius: 15px;
+  width: 30vw;
+}
+.stars {
+  width: 10vw;
+}
+.deletebutton {
+  width: 30px;
+  align-self: center;
+  background-color: transparent;
+  cursor: pointer;
+}
+img {
+  width: 20px;
+}
+li {
+  list-style-type: none;
+  margin: 10px;
+}
+* {
+  font-size: 10px;
+}
+.firstword {
+  background-color: #10b981;
+  color: #f8fafc;
+  border-radius: 40px;
+  align-self: center;
+  font-size: 20px;
+  padding: 10px;
+  width: 40px;
+  text-align: center;
+}
